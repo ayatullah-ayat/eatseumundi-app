@@ -111,3 +111,11 @@ div.wpcf7 .wpcf7-submit:disabled {
 }
 
 /* custom css */
+@media screen and (max-width: 992px) {
+  .img-fluid {
+    width: 6% !important;
+  }
+  .page-overlay {
+    position: unset !important;
+  }
+}
